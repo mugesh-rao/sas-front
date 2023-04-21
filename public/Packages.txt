@@ -1,0 +1,2 @@
+npm i react-carousel-minimal
+npm i react-icons
